@@ -5,3 +5,6 @@ Open High Low Close are given for each day
 If the formulated value for the last 5 days is greater than the average value for the last 5 days its a buy signal
 If the formulated value for the last 5 days is lesser than the average value for the last 5 days its a sell signal
 I traded with only one unit 
+Brokergae was then added
+1% brokerage, 2% brokerage
+Profit seems to decrease with increasing brokerage
