@@ -13,7 +13,7 @@ import numpy
 
 style.use('ggplot')
 
-sbi=pandas.read_csv("C:\\Users\\ABHIBASU SEN\\Desktop\\research papers\\sbi1.csv", parse_dates=True, index_col=0)
+sbi=pandas.read_csv("sbi1.csv", parse_dates=True, index_col=0)
 sbi= sbi['Close']
 pos=0
 profit=0
